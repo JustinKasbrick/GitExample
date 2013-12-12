@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Justin
+=======
+JustinK
+>>>>>>> newBranch
 Active Connections
 
   Proto  Local Address          Foreign Address        State           PID
